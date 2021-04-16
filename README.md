@@ -10,3 +10,10 @@ In a linked queue, each node of the queue consists of two parts i.e. data part a
     deQueue() This operation removes the front node and moves front to the next node.
     
 Time Complexity: Time complexity of both operations enqueue() and dequeue() is O(1) as we only change few pointers in both operations. There is no loop in any of the operations.
+
+The Options :
+
+    1. Create
+    2. Enqueue
+    3. Dequeue
+    4. Exit
