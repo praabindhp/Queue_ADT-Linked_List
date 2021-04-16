@@ -11,9 +11,16 @@ In a linked queue, each node of the queue consists of two parts i.e. data part a
     
 Time Complexity: Time complexity of both operations enqueue() and dequeue() is O(1) as we only change few pointers in both operations. There is no loop in any of the operations.
 
-The Options :
+The Operations :
 
     1. Create
     2. Enqueue
     3. Dequeue
     4. Exit
+
+The Prompts :
+    
+    1. Enter Your Choice
+    2. Enter The First Element
+    3. Enter The Next Element
+
